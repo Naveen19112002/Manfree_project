@@ -1,0 +1,800 @@
+Version 4.0 HI-TECH Software Intermediate Code
+"4210 D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 4210: extern volatile __bit RE0 __attribute__((address(0x48)));
+[v _RE0 `Vb ~T0 @X0 0 e@72 ]
+"353
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 353: extern volatile unsigned char PORTD __attribute__((address(0x008)));
+[v _PORTD `Vuc ~T0 @X0 0 e@8 ]
+"4213
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 4213: extern volatile __bit RE1 __attribute__((address(0x49)));
+[v _RE1 `Vb ~T0 @X0 0 e@73 ]
+[t ~ __interrupt . k ]
+[t T1 __interrupt ]
+"4387
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 4387: extern volatile __bit TMR2IF __attribute__((address(0x61)));
+[v _TMR2IF `Vb ~T0 @X0 0 e@97 ]
+"766
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 766: extern volatile unsigned char TMR2 __attribute__((address(0x011)));
+[v _TMR2 `Vuc ~T0 @X0 0 e@17 ]
+"4144
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 4144: extern volatile __bit RC2 __attribute__((address(0x3A)));
+[v _RC2 `Vb ~T0 @X0 0 e@58 ]
+"4138
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 4138: extern volatile __bit RC0 __attribute__((address(0x38)));
+[v _RC0 `Vb ~T0 @X0 0 e@56 ]
+"4141
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 4141: extern volatile __bit RC1 __attribute__((address(0x39)));
+[v _RC1 `Vb ~T0 @X0 0 e@57 ]
+[p mainexit ]
+"229
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 229: extern volatile unsigned char PORTB __attribute__((address(0x006)));
+[v _PORTB `Vuc ~T0 @X0 0 e@6 ]
+"415
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 415: extern volatile unsigned char PORTE __attribute__((address(0x009)));
+[v _PORTE `Vuc ~T0 @X0 0 e@9 ]
+"1603
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 1603: extern volatile unsigned char TRISD __attribute__((address(0x088)));
+[v _TRISD `Vuc ~T0 @X0 0 e@136 ]
+"1665
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 1665: extern volatile unsigned char TRISE __attribute__((address(0x089)));
+[v _TRISE `Vuc ~T0 @X0 0 e@137 ]
+"3388
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 3388: extern volatile unsigned char ANSEL __attribute__((address(0x188)));
+[v _ANSEL `Vuc ~T0 @X0 0 e@392 ]
+"3450
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 3450: extern volatile unsigned char ANSELH __attribute__((address(0x189)));
+[v _ANSELH `Vuc ~T0 @X0 0 e@393 ]
+"291
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 291: extern volatile unsigned char PORTC __attribute__((address(0x007)));
+[v _PORTC `Vuc ~T0 @X0 0 e@7 ]
+"1541
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 1541: extern volatile unsigned char TRISC __attribute__((address(0x087)));
+[v _TRISC `Vuc ~T0 @X0 0 e@135 ]
+"1479
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 1479: extern volatile unsigned char TRISB __attribute__((address(0x086)));
+[v _TRISB `Vuc ~T0 @X0 0 e@134 ]
+"3901
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 3901: extern volatile __bit GIE __attribute__((address(0x5F)));
+[v _GIE `Vb ~T0 @X0 0 e@95 ]
+"4045
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 4045: extern volatile __bit PEIE __attribute__((address(0x5E)));
+[v _PEIE `Vb ~T0 @X0 0 e@94 ]
+"4384
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 4384: extern volatile __bit TMR2IE __attribute__((address(0x461)));
+[v _TMR2IE `Vb ~T0 @X0 0 e@1121 ]
+"773
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 773: extern volatile unsigned char T2CON __attribute__((address(0x012)));
+[v _T2CON `Vuc ~T0 @X0 0 e@18 ]
+"2042
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 2042: extern volatile unsigned char PR2 __attribute__((address(0x092)));
+[v _PR2 `Vuc ~T0 @X0 0 e@146 ]
+"4108
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 4108: extern volatile __bit RB0 __attribute__((address(0x30)));
+[v _RB0 `Vb ~T0 @X0 0 e@48 ]
+"4111
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 4111: extern volatile __bit RB1 __attribute__((address(0x31)));
+[v _RB1 `Vb ~T0 @X0 0 e@49 ]
+"4114
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 4114: extern volatile __bit RB2 __attribute__((address(0x32)));
+[v _RB2 `Vb ~T0 @X0 0 e@50 ]
+"4117
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 4117: extern volatile __bit RB3 __attribute__((address(0x33)));
+[v _RB3 `Vb ~T0 @X0 0 e@51 ]
+"4120
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 4120: extern volatile __bit RB4 __attribute__((address(0x34)));
+[v _RB4 `Vb ~T0 @X0 0 e@52 ]
+"4123
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 4123: extern volatile __bit RB5 __attribute__((address(0x35)));
+[v _RB5 `Vb ~T0 @X0 0 e@53 ]
+"1 Project_washingmachine.c
+[p x FOSC  =  INTRC_NOCLKOUT ]
+"2
+[p x WDTE  =  OFF        ]
+"3
+[p x PWRTE  =  ON        ]
+"4
+[p x MCLRE  =  ON        ]
+"5
+[p x CP  =  OFF          ]
+"6
+[p x CPD  =  OFF         ]
+"7
+[p x BOREN  =  OFF       ]
+"8
+[p x IESO  =  ON         ]
+"9
+[p x FCMEN  =  ON        ]
+"10
+[p x LVP  =  OFF         ]
+"11
+[p x BOR4V  =  BOR40V    ]
+"12
+[p x WRT  =  OFF         ]
+"55 D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 55: __asm("INDF equ 00h");
+[; <" INDF equ 00h ;# ">
+"62
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 62: __asm("TMR0 equ 01h");
+[; <" TMR0 equ 01h ;# ">
+"69
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 69: __asm("PCL equ 02h");
+[; <" PCL equ 02h ;# ">
+"76
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 76: __asm("STATUS equ 03h");
+[; <" STATUS equ 03h ;# ">
+"162
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 162: __asm("FSR equ 04h");
+[; <" FSR equ 04h ;# ">
+"169
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 169: __asm("PORTA equ 05h");
+[; <" PORTA equ 05h ;# ">
+"231
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 231: __asm("PORTB equ 06h");
+[; <" PORTB equ 06h ;# ">
+"293
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 293: __asm("PORTC equ 07h");
+[; <" PORTC equ 07h ;# ">
+"355
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 355: __asm("PORTD equ 08h");
+[; <" PORTD equ 08h ;# ">
+"417
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 417: __asm("PORTE equ 09h");
+[; <" PORTE equ 09h ;# ">
+"455
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 455: __asm("PCLATH equ 0Ah");
+[; <" PCLATH equ 0Ah ;# ">
+"462
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 462: __asm("INTCON equ 0Bh");
+[; <" INTCON equ 0Bh ;# ">
+"540
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 540: __asm("PIR1 equ 0Ch");
+[; <" PIR1 equ 0Ch ;# ">
+"596
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 596: __asm("PIR2 equ 0Dh");
+[; <" PIR2 equ 0Dh ;# ">
+"653
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 653: __asm("TMR1 equ 0Eh");
+[; <" TMR1 equ 0Eh ;# ">
+"660
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 660: __asm("TMR1L equ 0Eh");
+[; <" TMR1L equ 0Eh ;# ">
+"667
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 667: __asm("TMR1H equ 0Fh");
+[; <" TMR1H equ 0Fh ;# ">
+"674
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 674: __asm("T1CON equ 010h");
+[; <" T1CON equ 010h ;# ">
+"768
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 768: __asm("TMR2 equ 011h");
+[; <" TMR2 equ 011h ;# ">
+"775
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 775: __asm("T2CON equ 012h");
+[; <" T2CON equ 012h ;# ">
+"846
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 846: __asm("SSPBUF equ 013h");
+[; <" SSPBUF equ 013h ;# ">
+"853
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 853: __asm("SSPCON equ 014h");
+[; <" SSPCON equ 014h ;# ">
+"923
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 923: __asm("CCPR1 equ 015h");
+[; <" CCPR1 equ 015h ;# ">
+"930
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 930: __asm("CCPR1L equ 015h");
+[; <" CCPR1L equ 015h ;# ">
+"937
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 937: __asm("CCPR1H equ 016h");
+[; <" CCPR1H equ 016h ;# ">
+"944
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 944: __asm("CCP1CON equ 017h");
+[; <" CCP1CON equ 017h ;# ">
+"1041
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 1041: __asm("RCSTA equ 018h");
+[; <" RCSTA equ 018h ;# ">
+"1136
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 1136: __asm("TXREG equ 019h");
+[; <" TXREG equ 019h ;# ">
+"1143
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 1143: __asm("RCREG equ 01Ah");
+[; <" RCREG equ 01Ah ;# ">
+"1150
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 1150: __asm("CCPR2 equ 01Bh");
+[; <" CCPR2 equ 01Bh ;# ">
+"1157
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 1157: __asm("CCPR2L equ 01Bh");
+[; <" CCPR2L equ 01Bh ;# ">
+"1164
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 1164: __asm("CCPR2H equ 01Ch");
+[; <" CCPR2H equ 01Ch ;# ">
+"1171
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 1171: __asm("CCP2CON equ 01Dh");
+[; <" CCP2CON equ 01Dh ;# ">
+"1241
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 1241: __asm("ADRESH equ 01Eh");
+[; <" ADRESH equ 01Eh ;# ">
+"1248
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 1248: __asm("ADCON0 equ 01Fh");
+[; <" ADCON0 equ 01Fh ;# ">
+"1349
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 1349: __asm("OPTION_REG equ 081h");
+[; <" OPTION_REG equ 081h ;# ">
+"1419
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 1419: __asm("TRISA equ 085h");
+[; <" TRISA equ 085h ;# ">
+"1481
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 1481: __asm("TRISB equ 086h");
+[; <" TRISB equ 086h ;# ">
+"1543
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 1543: __asm("TRISC equ 087h");
+[; <" TRISC equ 087h ;# ">
+"1605
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 1605: __asm("TRISD equ 088h");
+[; <" TRISD equ 088h ;# ">
+"1667
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 1667: __asm("TRISE equ 089h");
+[; <" TRISE equ 089h ;# ">
+"1705
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 1705: __asm("PIE1 equ 08Ch");
+[; <" PIE1 equ 08Ch ;# ">
+"1761
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 1761: __asm("PIE2 equ 08Dh");
+[; <" PIE2 equ 08Dh ;# ">
+"1818
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 1818: __asm("PCON equ 08Eh");
+[; <" PCON equ 08Eh ;# ">
+"1865
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 1865: __asm("OSCCON equ 08Fh");
+[; <" OSCCON equ 08Fh ;# ">
+"1930
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 1930: __asm("OSCTUNE equ 090h");
+[; <" OSCTUNE equ 090h ;# ">
+"1982
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 1982: __asm("SSPCON2 equ 091h");
+[; <" SSPCON2 equ 091h ;# ">
+"2044
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 2044: __asm("PR2 equ 092h");
+[; <" PR2 equ 092h ;# ">
+"2051
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 2051: __asm("SSPADD equ 093h");
+[; <" SSPADD equ 093h ;# ">
+"2058
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 2058: __asm("SSPMSK equ 093h");
+[; <" SSPMSK equ 093h ;# ">
+"2063
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 2063: __asm("MSK equ 093h");
+[; <" MSK equ 093h ;# ">
+"2180
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 2180: __asm("SSPSTAT equ 094h");
+[; <" SSPSTAT equ 094h ;# ">
+"2349
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 2349: __asm("WPUB equ 095h");
+[; <" WPUB equ 095h ;# ">
+"2419
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 2419: __asm("IOCB equ 096h");
+[; <" IOCB equ 096h ;# ">
+"2489
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 2489: __asm("VRCON equ 097h");
+[; <" VRCON equ 097h ;# ">
+"2559
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 2559: __asm("TXSTA equ 098h");
+[; <" TXSTA equ 098h ;# ">
+"2645
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 2645: __asm("SPBRG equ 099h");
+[; <" SPBRG equ 099h ;# ">
+"2707
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 2707: __asm("SPBRGH equ 09Ah");
+[; <" SPBRGH equ 09Ah ;# ">
+"2777
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 2777: __asm("PWM1CON equ 09Bh");
+[; <" PWM1CON equ 09Bh ;# ">
+"2847
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 2847: __asm("ECCPAS equ 09Ch");
+[; <" ECCPAS equ 09Ch ;# ">
+"2929
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 2929: __asm("PSTRCON equ 09Dh");
+[; <" PSTRCON equ 09Dh ;# ">
+"2973
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 2973: __asm("ADRESL equ 09Eh");
+[; <" ADRESL equ 09Eh ;# ">
+"2980
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 2980: __asm("ADCON1 equ 09Fh");
+[; <" ADCON1 equ 09Fh ;# ">
+"3014
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 3014: __asm("WDTCON equ 0105h");
+[; <" WDTCON equ 0105h ;# ">
+"3067
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 3067: __asm("CM1CON0 equ 0107h");
+[; <" CM1CON0 equ 0107h ;# ">
+"3132
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 3132: __asm("CM2CON0 equ 0108h");
+[; <" CM2CON0 equ 0108h ;# ">
+"3197
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 3197: __asm("CM2CON1 equ 0109h");
+[; <" CM2CON1 equ 0109h ;# ">
+"3248
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 3248: __asm("EEDATA equ 010Ch");
+[; <" EEDATA equ 010Ch ;# ">
+"3253
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 3253: __asm("EEDAT equ 010Ch");
+[; <" EEDAT equ 010Ch ;# ">
+"3260
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 3260: __asm("EEADR equ 010Dh");
+[; <" EEADR equ 010Dh ;# ">
+"3267
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 3267: __asm("EEDATH equ 010Eh");
+[; <" EEDATH equ 010Eh ;# ">
+"3274
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 3274: __asm("EEADRH equ 010Fh");
+[; <" EEADRH equ 010Fh ;# ">
+"3281
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 3281: __asm("SRCON equ 0185h");
+[; <" SRCON equ 0185h ;# ">
+"3338
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 3338: __asm("BAUDCTL equ 0187h");
+[; <" BAUDCTL equ 0187h ;# ">
+"3390
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 3390: __asm("ANSEL equ 0188h");
+[; <" ANSEL equ 0188h ;# ">
+"3452
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 3452: __asm("ANSELH equ 0189h");
+[; <" ANSELH equ 0189h ;# ">
+"3502
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 3502: __asm("EECON1 equ 018Ch");
+[; <" EECON1 equ 018Ch ;# ">
+"3547
+[; ;D:/Hardware IDE and Tool/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc/pic16f887.h: 3547: __asm("EECON2 equ 018Dh");
+[; <" EECON2 equ 018Dh ;# ">
+"14 Project_washingmachine.c
+[; ;Project_washingmachine.c: 14: int t, one_sec_flag = 0, count = 0, time = 0, sec = 1, stop_flag = 0, a = 0,led=0;
+[v _t `i ~T0 @X0 1 e ]
+[v _one_sec_flag `i ~T0 @X0 1 e ]
+[i _one_sec_flag
+-> 0 `i
+]
+[v _count `i ~T0 @X0 1 e ]
+[i _count
+-> 0 `i
+]
+[v _time `i ~T0 @X0 1 e ]
+[i _time
+-> 0 `i
+]
+[v _sec `i ~T0 @X0 1 e ]
+[i _sec
+-> 1 `i
+]
+[v _stop_flag `i ~T0 @X0 1 e ]
+[i _stop_flag
+-> 0 `i
+]
+[v _a `i ~T0 @X0 1 e ]
+[i _a
+-> 0 `i
+]
+[v _led `i ~T0 @X0 1 e ]
+[i _led
+-> 0 `i
+]
+"16
+[; ;Project_washingmachine.c: 16: void Lcd(char rs, char data) {
+[v _Lcd `(v ~T0 @X0 1 ef2`uc`uc ]
+{
+[e :U _Lcd ]
+[v _rs `uc ~T0 @X0 1 r1 ]
+[v _data `uc ~T0 @X0 1 r2 ]
+[f ]
+"17
+[; ;Project_washingmachine.c: 17:     RE0 = rs;
+[e = _RE0 -> _rs `b ]
+"18
+[; ;Project_washingmachine.c: 18:     PORTD = data;
+[e = _PORTD -> _data `uc ]
+"19
+[; ;Project_washingmachine.c: 19:     RE1 = 1;
+[e = _RE1 -> -> 1 `i `b ]
+"20
+[; ;Project_washingmachine.c: 20:     for (t = 0; t <= 100; t++);
+{
+[e = _t -> 0 `i ]
+[e $ <= _t -> 100 `i 143  ]
+[e $U 144  ]
+[e :U 143 ]
+[e ++ _t -> 1 `i ]
+[e $ <= _t -> 100 `i 143  ]
+[e :U 144 ]
+}
+"21
+[; ;Project_washingmachine.c: 21:     RE1 = 0;
+[e = _RE1 -> -> 0 `i `b ]
+"22
+[; ;Project_washingmachine.c: 22:     for (t = 0; t <= 100; t++);
+{
+[e = _t -> 0 `i ]
+[e $ <= _t -> 100 `i 146  ]
+[e $U 147  ]
+[e :U 146 ]
+[e ++ _t -> 1 `i ]
+[e $ <= _t -> 100 `i 146  ]
+[e :U 147 ]
+}
+"23
+[; ;Project_washingmachine.c: 23: }
+[e :UE 142 ]
+}
+"25
+[; ;Project_washingmachine.c: 25: void string(char *stop) {
+[v _string `(v ~T0 @X0 1 ef1`*uc ]
+{
+[e :U _string ]
+[v _stop `*uc ~T0 @X0 1 r1 ]
+[f ]
+"26
+[; ;Project_washingmachine.c: 26:     while (*stop) {
+[e $U 150  ]
+[e :U 151 ]
+{
+"27
+[; ;Project_washingmachine.c: 27:         Lcd(1, *stop++);
+[e ( _Lcd (2 , -> -> 1 `i `uc *U ++ _stop * -> -> 1 `i `x -> -> # *U _stop `i `x ]
+"28
+[; ;Project_washingmachine.c: 28:     }
+}
+[e :U 150 ]
+"26
+[; ;Project_washingmachine.c: 26:     while (*stop) {
+[e $ != -> *U _stop `i -> 0 `i 151  ]
+[e :U 152 ]
+"29
+[; ;Project_washingmachine.c: 29: }
+[e :UE 149 ]
+}
+"31
+[; ;Project_washingmachine.c: 31: void display(int sec) {
+[v _display `(v ~T0 @X0 1 ef1`i ]
+{
+[e :U _display ]
+[v _sec `i ~T0 @X0 1 r1 ]
+[f ]
+"32
+[; ;Project_washingmachine.c: 32:     Lcd(0, 0xC0);
+[e ( _Lcd (2 , -> -> 0 `i `uc -> -> 192 `i `uc ]
+"33
+[; ;Project_washingmachine.c: 33:     Lcd(1, (sec / 10) + '0');
+[e ( _Lcd (2 , -> -> 1 `i `uc -> + -> / _sec -> 10 `i `ui -> 48 `ui `uc ]
+"34
+[; ;Project_washingmachine.c: 34:     Lcd(1, (sec % 10) + '0');
+[e ( _Lcd (2 , -> -> 1 `i `uc -> + -> % _sec -> 10 `i `ui -> 48 `ui `uc ]
+"35
+[; ;Project_washingmachine.c: 35: }
+[e :UE 153 ]
+}
+[v $root$_tmr `(v ~T0 @X0 0 e ]
+"37
+[; ;Project_washingmachine.c: 37: void __attribute__((picinterrupt(("")))) tmr() {
+[v _tmr `(v ~T1 @X0 1 ef ]
+{
+[e :U _tmr ]
+[f ]
+"38
+[; ;Project_washingmachine.c: 38:     if (TMR2IF == 1) {
+[e $ ! == -> _TMR2IF `i -> 1 `i 155  ]
+{
+"39
+[; ;Project_washingmachine.c: 39:         count++;
+[e ++ _count -> 1 `i ]
+"40
+[; ;Project_washingmachine.c: 40:         led++;
+[e ++ _led -> 1 `i ]
+"41
+[; ;Project_washingmachine.c: 41:         TMR2IF = 0;
+[e = _TMR2IF -> -> 0 `i `b ]
+"42
+[; ;Project_washingmachine.c: 42:         TMR2 = 0;
+[e = _TMR2 -> -> 0 `i `uc ]
+"43
+[; ;Project_washingmachine.c: 43:         if ((led >= 125)&&(led<=0)){ RC2=1;}
+[e $ ! && >= _led -> 125 `i <= _led -> 0 `i 156  ]
+{
+[e = _RC2 -> -> 1 `i `b ]
+}
+[e :U 156 ]
+"44
+[; ;Project_washingmachine.c: 44:         if ((led>=126)&&(led<=250)){ RC2=0; }
+[e $ ! && >= _led -> 126 `i <= _led -> 250 `i 157  ]
+{
+[e = _RC2 -> -> 0 `i `b ]
+}
+[e :U 157 ]
+"45
+[; ;Project_washingmachine.c: 45:         if (led>=256){ led = 0; }
+[e $ ! >= _led -> 256 `i 158  ]
+{
+[e = _led -> 0 `i ]
+}
+[e :U 158 ]
+"46
+[; ;Project_washingmachine.c: 46:     }
+}
+[e :U 155 ]
+"48
+[; ;Project_washingmachine.c: 48:     if (a == 1) {
+[e $ ! == _a -> 1 `i 159  ]
+{
+"49
+[; ;Project_washingmachine.c: 49:         if (sec > 0) {
+[e $ ! > _sec -> 0 `i 160  ]
+{
+"51
+[; ;Project_washingmachine.c: 51:             display(sec);
+[e ( _display (1 _sec ]
+"52
+[; ;Project_washingmachine.c: 52:             if (count >= 125) {
+[e $ ! >= _count -> 125 `i 161  ]
+{
+"53
+[; ;Project_washingmachine.c: 53:                 sec--;
+[e -- _sec -> 1 `i ]
+"54
+[; ;Project_washingmachine.c: 54:                 count = 0;
+[e = _count -> 0 `i ]
+"55
+[; ;Project_washingmachine.c: 55:             }
+}
+[e :U 161 ]
+"56
+[; ;Project_washingmachine.c: 56:             if (((sec <= 5) || (sec <= 15) || (sec <= 25) || (sec <= 35) || (sec <= 45))&&((sec >= 0) || (sec >= 31) || (sec >= 21) || (sec >= 11))) {
+[e $ ! && || || || || <= _sec -> 5 `i <= _sec -> 15 `i <= _sec -> 25 `i <= _sec -> 35 `i <= _sec -> 45 `i || || || >= _sec -> 0 `i >= _sec -> 31 `i >= _sec -> 21 `i >= _sec -> 11 `i 162  ]
+{
+"57
+[; ;Project_washingmachine.c: 57:                 RC0 = 1;
+[e = _RC0 -> -> 1 `i `b ]
+"58
+[; ;Project_washingmachine.c: 58:                 RC1 = 0;
+[e = _RC1 -> -> 0 `i `b ]
+"59
+[; ;Project_washingmachine.c: 59:             }
+}
+[e :U 162 ]
+"60
+[; ;Project_washingmachine.c: 60:             if (((sec <= 10) || (sec <= 20) || (sec <= 30) || (sec <= 40))&&((sec >= 6) || (sec >= 16) || (sec >= 26) || (sec >= 36))) {
+[e $ ! && || || || <= _sec -> 10 `i <= _sec -> 20 `i <= _sec -> 30 `i <= _sec -> 40 `i || || || >= _sec -> 6 `i >= _sec -> 16 `i >= _sec -> 26 `i >= _sec -> 36 `i 163  ]
+{
+"61
+[; ;Project_washingmachine.c: 61:                 RC1 = 1;
+[e = _RC1 -> -> 1 `i `b ]
+"62
+[; ;Project_washingmachine.c: 62:                 RC0 = 0;
+[e = _RC0 -> -> 0 `i `b ]
+"63
+[; ;Project_washingmachine.c: 63:             }
+}
+[e :U 163 ]
+"64
+[; ;Project_washingmachine.c: 64:             if (sec == 0) {
+[e $ ! == _sec -> 0 `i 164  ]
+{
+"65
+[; ;Project_washingmachine.c: 65:                 Lcd(0, 0xC0);
+[e ( _Lcd (2 , -> -> 0 `i `uc -> -> 192 `i `uc ]
+"66
+[; ;Project_washingmachine.c: 66:                 string("END");
+[e ( _string (1 :s 1C ]
+"67
+[; ;Project_washingmachine.c: 67:                 RC0 = RC1 = 0;
+[e = _RC0 -> = _RC1 -> -> 0 `i `b `b ]
+"68
+[; ;Project_washingmachine.c: 68:                 a = 0;
+[e = _a -> 0 `i ]
+"69
+[; ;Project_washingmachine.c: 69:             }
+}
+[e :U 164 ]
+"70
+[; ;Project_washingmachine.c: 70:         }
+}
+[e :U 160 ]
+"72
+[; ;Project_washingmachine.c: 72:     }
+}
+[e :U 159 ]
+"73
+[; ;Project_washingmachine.c: 73: }
+[e :UE 154 ]
+}
+[v $root$_main `(v ~T0 @X0 0 e ]
+"75
+[; ;Project_washingmachine.c: 75: void main() {
+[v _main `(v ~T0 @X0 1 ef ]
+{
+[e :U _main ]
+[f ]
+"76
+[; ;Project_washingmachine.c: 76:     PORTB = PORTD = PORTE = TRISD = TRISE = ANSEL = ANSELH = PORTC = TRISC = 0x00;
+[e = _PORTB = _PORTD = _PORTE = _TRISD = _TRISE = _ANSEL = _ANSELH = _PORTC = _TRISC -> -> 0 `i `uc ]
+"77
+[; ;Project_washingmachine.c: 77:     TRISB = 0xFF;
+[e = _TRISB -> -> 255 `i `uc ]
+"78
+[; ;Project_washingmachine.c: 78:     Lcd(0, 0x38);
+[e ( _Lcd (2 , -> -> 0 `i `uc -> -> 56 `i `uc ]
+"79
+[; ;Project_washingmachine.c: 79:     Lcd(0, 0x0E);
+[e ( _Lcd (2 , -> -> 0 `i `uc -> -> 14 `i `uc ]
+"80
+[; ;Project_washingmachine.c: 80:     Lcd(0, 0x80);
+[e ( _Lcd (2 , -> -> 0 `i `uc -> -> 128 `i `uc ]
+"81
+[; ;Project_washingmachine.c: 81:     GIE = PEIE = TMR2IE = 1;
+[e = _GIE -> = _PEIE -> = _TMR2IE -> -> 1 `i `b `b `b ]
+"82
+[; ;Project_washingmachine.c: 82:     T2CON = 0x7F;
+[e = _T2CON -> -> 127 `i `uc ]
+"83
+[; ;Project_washingmachine.c: 83:     TMR2 = 0;
+[e = _TMR2 -> -> 0 `i `uc ]
+"84
+[; ;Project_washingmachine.c: 84:     PR2 = 125;
+[e = _PR2 -> -> 125 `i `uc ]
+"85
+[; ;Project_washingmachine.c: 85:     Lcd(0, 0x80);
+[e ( _Lcd (2 , -> -> 0 `i `uc -> -> 128 `i `uc ]
+"86
+[; ;Project_washingmachine.c: 86:     string("welcome");
+[e ( _string (1 :s 2C ]
+"87
+[; ;Project_washingmachine.c: 87:     while (1) {
+[e :U 167 ]
+{
+"88
+[; ;Project_washingmachine.c: 88:         if (RB0 == 1)
+[e $ ! == -> _RB0 `i -> 1 `i 169  ]
+"89
+[; ;Project_washingmachine.c: 89:         {
+{
+"90
+[; ;Project_washingmachine.c: 90:             time += 5;
+[e =+ _time -> 5 `i ]
+"91
+[; ;Project_washingmachine.c: 91:             if (time >= 20) {
+[e $ ! >= _time -> 20 `i 170  ]
+{
+"92
+[; ;Project_washingmachine.c: 92:                 time = 0;
+[e = _time -> 0 `i ]
+"93
+[; ;Project_washingmachine.c: 93:             }
+}
+[e :U 170 ]
+"94
+[; ;Project_washingmachine.c: 94:             sec = time;
+[e = _sec _time ]
+"95
+[; ;Project_washingmachine.c: 95:             display(sec);
+[e ( _display (1 _sec ]
+"96
+[; ;Project_washingmachine.c: 96:             while (RB0 == 1);
+[e $U 171  ]
+[e :U 172 ]
+[e :U 171 ]
+[e $ == -> _RB0 `i -> 1 `i 172  ]
+[e :U 173 ]
+"97
+[; ;Project_washingmachine.c: 97:         }
+}
+[e :U 169 ]
+"98
+[; ;Project_washingmachine.c: 98:         if (RB1 == 1)
+[e $ ! == -> _RB1 `i -> 1 `i 174  ]
+"99
+[; ;Project_washingmachine.c: 99:         {
+{
+"100
+[; ;Project_washingmachine.c: 100:             sec = time + 10;
+[e = _sec + _time -> 10 `i ]
+"101
+[; ;Project_washingmachine.c: 101:             display(sec);
+[e ( _display (1 _sec ]
+"102
+[; ;Project_washingmachine.c: 102:             while (RB1 == 1);
+[e $U 175  ]
+[e :U 176 ]
+[e :U 175 ]
+[e $ == -> _RB1 `i -> 1 `i 176  ]
+[e :U 177 ]
+"103
+[; ;Project_washingmachine.c: 103:         }
+}
+[e :U 174 ]
+"104
+[; ;Project_washingmachine.c: 104:         if (RB2 == 1)
+[e $ ! == -> _RB2 `i -> 1 `i 178  ]
+"105
+[; ;Project_washingmachine.c: 105:         {
+{
+"106
+[; ;Project_washingmachine.c: 106:             sec = time + 20;
+[e = _sec + _time -> 20 `i ]
+"107
+[; ;Project_washingmachine.c: 107:             display(sec);
+[e ( _display (1 _sec ]
+"108
+[; ;Project_washingmachine.c: 108:             while (RB2 == 1);
+[e $U 179  ]
+[e :U 180 ]
+[e :U 179 ]
+[e $ == -> _RB2 `i -> 1 `i 180  ]
+[e :U 181 ]
+"109
+[; ;Project_washingmachine.c: 109:         }
+}
+[e :U 178 ]
+"110
+[; ;Project_washingmachine.c: 110:         if (RB3 == 1)
+[e $ ! == -> _RB3 `i -> 1 `i 182  ]
+"111
+[; ;Project_washingmachine.c: 111:         {
+{
+"112
+[; ;Project_washingmachine.c: 112:             sec = time + 30;
+[e = _sec + _time -> 30 `i ]
+"113
+[; ;Project_washingmachine.c: 113:             display(sec);
+[e ( _display (1 _sec ]
+"114
+[; ;Project_washingmachine.c: 114:             while (RB3 == 1);
+[e $U 183  ]
+[e :U 184 ]
+[e :U 183 ]
+[e $ == -> _RB3 `i -> 1 `i 184  ]
+[e :U 185 ]
+"115
+[; ;Project_washingmachine.c: 115:         }
+}
+[e :U 182 ]
+"116
+[; ;Project_washingmachine.c: 116:         if (RB4 == 1)
+[e $ ! == -> _RB4 `i -> 1 `i 186  ]
+"117
+[; ;Project_washingmachine.c: 117:         {
+{
+"118
+[; ;Project_washingmachine.c: 118:             a = 1;
+[e = _a -> 1 `i ]
+"119
+[; ;Project_washingmachine.c: 119:         }
+}
+[e :U 186 ]
+"121
+[; ;Project_washingmachine.c: 121:         if (RB5 == 1) {
+[e $ ! == -> _RB5 `i -> 1 `i 187  ]
+{
+"122
+[; ;Project_washingmachine.c: 122:             Lcd(0, 0x80);
+[e ( _Lcd (2 , -> -> 0 `i `uc -> -> 128 `i `uc ]
+"123
+[; ;Project_washingmachine.c: 123:             string("EMERGENCY STOP");
+[e ( _string (1 :s 3C ]
+"124
+[; ;Project_washingmachine.c: 124:             while (RB5 == 1);
+[e $U 188  ]
+[e :U 189 ]
+[e :U 188 ]
+[e $ == -> _RB5 `i -> 1 `i 189  ]
+[e :U 190 ]
+"125
+[; ;Project_washingmachine.c: 125:         }
+}
+[e :U 187 ]
+"126
+[; ;Project_washingmachine.c: 126:     }
+}
+[e :U 166 ]
+[e $U 167  ]
+[e :U 168 ]
+"127
+[; ;Project_washingmachine.c: 127: }
+[e :UE 165 ]
+}
+[a 2C 119 101 108 99 111 109 101 0 ]
+[a 3C 69 77 69 82 71 69 78 67 89 32 83 84 79 80 0 ]
+[a 1C 69 78 68 0 ]
